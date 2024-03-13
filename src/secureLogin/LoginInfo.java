@@ -7,7 +7,7 @@ import java.util.HashMap;
 
 public class LoginInfo {
 	private HashMap<String, String> loginData;
-    private static final String FILE_PATH = "C:\\Users\\jai\\eclipse-workspace\\Login_System\\src\\LS\\user_credentials.txt";
+    private static final String FILE_PATH = "location path of user_credentials.txt file";
 
     LoginInfo() {
         loginData = new HashMap<>();
