@@ -25,9 +25,11 @@ The project has no external dependencies and should run on any system with Java 
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
+## Additional Information
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Make sure to replace your actual location path of the user credential file instead of the "Location path of user_credential.txt file".
+
+
 
 
 
