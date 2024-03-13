@@ -20,7 +20,7 @@ public class UserRegistrationPage implements ActionListener {
     private JTextField usernameField;
     private JPasswordField passwordField;
     private JLabel messageLabel;
-    private static final String FILE_PATH = "C:\\Users\\jai\\eclipse-workspace\\Login_System\\src\\LS\\user_credentials.txt";
+    private static final String FILE_PATH = "Location path of user_credentials.txt file"; 
 
     UserRegistrationPage() {
         createGUI();
